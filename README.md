@@ -1,8 +1,1 @@
-About Me:
-Hello, Raju Das here.
-Interested in upskilling my knowledge in the field of software and backend development.
-My current tech stack is : C++, Object Oriented Programming(OOP), Linux,
-Databases, MySQL, Data Structurs and Algorithms, Git and Github, Cloud, AWS,
-SDLC(Software Development Life Cycle), Python , Django & .....still learning.
-Looking forward to work with developers by contributing on their projects and solve the problem.
-You can ping me on rajud878@gmail.
+Hello, this is Raju Das. I'm looking to expand my knowledge of software and backend development. C++, Object Oriented Programming (OOP), Linux, Databases, MySQL, Data Structures and Algorithms, Git and Github, Cloud, AWS, SDLC (Software Development Life Cycle), Python, Django, and..... I'm excited to collaborate with developers on their projects and solve the problem. You can reach me at rajud878@gmail.com.
