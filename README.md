@@ -21,7 +21,7 @@
 
 ## 🌐 Where to Find Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/raju-das-sde)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raju-das-sde/)
 &nbsp;&nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/AimSnorlax/)
 &nbsp;&nbsp;
